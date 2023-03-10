@@ -5,6 +5,7 @@ No dataframe Clean_Dataset.csv, existe a coluna da empresas áreas ('airline') n
 
 ## Objetivo
 
+Fazer com que a coluna 'airline' seja lida por inteligência artificial
 
 ## Processo de aprendizagem
 
