@@ -9,6 +9,10 @@ Fazer com que a coluna 'airline' seja lida por inteligência artificial
 
 ## Processo de aprendizagem
 
+- [x]
+- [x]
+- [x]
+- [x]
 
 ## Agradecimento
 
