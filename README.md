@@ -10,7 +10,7 @@ Tratar as colunas de texto para que elas possam ser lidas por aprendizado de má
 ## Processo de aprendizagem
 
 - [x] Bibliotecas usadas: Pandas e OneHotEncoder
-- [x] Elimando a coluna 'Voo'
+- [x] Eliminando a coluna 'Voo'
 - [x] Utilizando apply e lambda function para tratar os dados da colunas 'classe'
 - [x] Criação de uma função para tratar os dados da coluna 'paradas'
 - [x] Utilizando OneHotEnconder para usar os nomes das empresas áreas para criar uma nova coluna com cada nome
