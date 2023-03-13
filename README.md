@@ -1,6 +1,6 @@
 # Projeto Tratamento Variavéis Texto
 
-No dataframe Clean_Dataset.csv, existe a coluna da empresas áreas ('airline') não é possível 
+O arquivo CSV possui uma coluna com texto o 
 
 
 ## Objetivo
