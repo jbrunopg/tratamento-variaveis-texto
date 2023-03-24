@@ -26,3 +26,4 @@ Tratar as colunas de texto para que elas possam ser lidas por aprendizado de má
 ## Agradecimento
 
 Agradeço ao Henrique de Andrade pela ideia desafio da realização do projeto.
+
