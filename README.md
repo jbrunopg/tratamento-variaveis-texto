@@ -1,6 +1,6 @@
 # Projeto Tratamento Variavéis Texto
 
-O arquivo Clean_Dataset.csv possui colunas com texto e isso dificulta a leitura dos algoritmos de aprendizado de máquina
+O arquivo Clean_Dataset.csv possui colunas com texto e isso dificulta a leitura dos algoritmos de aprendizado de máquina.
 
 
 ## Objetivo
