@@ -5,7 +5,7 @@ O arquivo Clean_Dataset.csv possui colunas com texto e isso dificulta a leitura 
 
 ## Objetivo
 
-Tratar as colunas de texto para que elas possam ser lidas por aprendizado de máquina
+Tratar as colunas de texto para que elas possam ser lidas por aprendizado de máquina.
 
 ## Processo de aprendizagem
 
